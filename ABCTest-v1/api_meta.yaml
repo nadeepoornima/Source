@@ -1,0 +1,7 @@
+deploy:
+  import:
+    preserveProvider: true
+    rotateRevision: false
+    update: true
+name: ABCTest
+version: v1
